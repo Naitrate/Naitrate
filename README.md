@@ -17,7 +17,7 @@
 - 😄 **Pronouns:** He/Him, They/Them *(Generally find gender neutral pronouns to be most convenient, but call me whatever listed here).*
 
 ### 📈 Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Naitrate&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naitrate&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ### [📓 Blog for Assorted Things](https://naitrate.github.io/)
 
