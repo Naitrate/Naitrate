@@ -12,14 +12,14 @@
 - 🎮 **Game Genres I like:** Action Games, JRPGs, Fighting Games, Rhythm Games, Twitch-Shooters/Arena-Shooters/Boomer-Shooters.
 - 🎶 **Music Genres I like:** Metalcore, EDM, Vocaloid, Rap, Nu-Metal, Rock *(and Butt-Rock adjacent stuff)*, Pop *(Depends though)*, Video Game OSTs.
 - 📫 **How to reach me:**
-  - **Email *(This is preferred for business related stuff)*:** kingkrouch@outlook.com
+  - **Email *(This is preferred for business related stuff)*:** naitrate@naitrate.net
   - **Discord:** @naitrate
 - 😄 **Pronouns:** He/Him, They/Them *(Generally find gender neutral pronouns to be most convenient, but call me whatever listed here).*
 
 ### 📈 Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naitrate&theme=dark&background=000000)](https://git.io/streak-stats)
 
-### [📓 Blog for Assorted Things](https://naitrate.github.io/)
+### [📓 Blog for Assorted Things](https://journal.naitrate.net/)
 
 ### 😵‍💫 Other things:
 ☕ If you've enjoyed or gotten usage from my work *(keep in mind, I do a majority of this completely for free on my spare time with no donations or compensation)*, please consider supporting my Ko-Fi below:
